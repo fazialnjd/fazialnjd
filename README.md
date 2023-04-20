@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-**I'm [Faezeh](https://github.com/fazialnjd)！I'm an Back-end developer 👨‍💻 who is passionate about painting and music.**
+**I'm [Faezeh](https://github.com/fazialnjd)！I'm a Back-end developer 👨‍💻 who is passionate about painting and music.**
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/faezehalinejad/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/faezehalnjd/)](https://www.instagram.com/faezehalnjd)

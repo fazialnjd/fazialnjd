@@ -19,7 +19,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=Linux&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat-square&logo=Microsoft-SQL-Server&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-CICD-05122A?style=flat-square&logo=circleci&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pm2-05122A?style=flat-square&logo=Pm2&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-Logging-05122A?style=flat-square&logo=Logging&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) 
+![Bootstrap](https://img.shields.io/badge/-Log%20File-05122A?style=flat-square&logo=Log-File&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Monitoring-05122A?style=flat-square&logo=Monitoring&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-Postman-05122A?style=flat-square&logo=Postman&color=353535) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-Insomnia-05122A?style=flat-square&logo=Insomnia&color=353535) ![Bootstrap](https://img.shields.io/badge/-PyCharm-05122A?style=flat-square&logo=PyCharm&color=353535)

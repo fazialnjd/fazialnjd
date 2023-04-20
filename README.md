@@ -10,7 +10,7 @@
 
 ### 🖥 Skills
 
-- Python Developer
+- Back-End Developer
 
 
 ### ⚙️ Tech Stack

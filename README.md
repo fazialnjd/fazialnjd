@@ -34,7 +34,7 @@
 ![Bootstrap](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=HTML5&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=CSS3&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-Scrapy-05122A?style=flat-square&logo=Scrapy&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-Selenium-05122A?style=flat-square&logo=Selenium&color=353535) ![Bootstrap](https://img.shields.io/badge/-Beautiful%20Soup-05122A?style=flat-square&logo=Beautiful-Soup&color=353535) 
-
+![Bootstrap](https://img.shields.io/badge/-Jira-05122A?style=flat-square&logo=Jira&color=353535)
 
 
 ---

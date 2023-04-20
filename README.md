@@ -14,6 +14,7 @@
 ### 🖥 Skills
 
 - Back-End Developer
+- Web Scraper
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=fazialnjd&show_icons=true&hide_border=true">
 
@@ -21,6 +22,7 @@
 
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=Linux&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535) 
+![Bootstrap](https://img.shields.io/badge/-Rest%20Api-05122A?style=flat-square&logo=Rest-Api&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat-square&logo=Microsoft-SQL-Server&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-CICD-05122A?style=flat-square&logo=circleci&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pm2-05122A?style=flat-square&logo=Pm2&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-Logging-05122A?style=flat-square&logo=Logging&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) 

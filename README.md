@@ -13,8 +13,8 @@
 
 ### 🖥 Skills
 
+- bioinformatician
 - Back-End Developer
-- Web Scraper
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=fazialnjd&show_icons=true&hide_border=true">
 

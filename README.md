@@ -7,9 +7,9 @@ I'm **[Faezeh](https://github.com/fazialnjd)**, a Backend Developer and Bioinfor
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-### 🤖 AI, Machine Learning & Deep Learning
+### AI, Machine Learning & Deep Learning
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-353535?style=flat-square)
 ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-353535?style=flat-square)
 ![RAG](https://img.shields.io/badge/-RAG-353535?style=flat-square)
@@ -41,7 +41,7 @@ I'm **[Faezeh](https://github.com/fazialnjd)**, a Backend Developer and Bioinfor
 ![Redis](https://img.shields.io/badge/-Redis-353535?style=flat-square&logo=redis)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-353535?style=flat-square&logo=elasticsearch)
 
-### ⚙️ DevOps
+### DevOps
 ![Docker](https://img.shields.io/badge/-Docker-353535?style=flat-square&logo=docker)
 ![NGINX](https://img.shields.io/badge/-NGINX-353535?style=flat-square&logo=nginx)
 ![Git](https://img.shields.io/badge/-Git-353535?style=flat-square&logo=git)
@@ -49,13 +49,13 @@ I'm **[Faezeh](https://github.com/fazialnjd)**, a Backend Developer and Bioinfor
 ![CI/CD](https://img.shields.io/badge/-CI/CD-353535?style=flat-square&logo=circleci)
 ![PM2](https://img.shields.io/badge/-PM2-353535?style=flat-square)
 
-### 🧪 Web Scraping & Testing
+### Web Scraping & Testing
 ![Scrapy](https://img.shields.io/badge/-Scrapy-353535?style=flat-square&logo=scrapy)
 ![Selenium](https://img.shields.io/badge/-Selenium-353535?style=flat-square&logo=selenium)
 ![Beautiful Soup](https://img.shields.io/badge/-BeautifulSoup-353535?style=flat-square)
 ![Testing](https://img.shields.io/badge/-Testing-353535?style=flat-square)
 
-### 📊 Data Analysis
+### Data Analysis
 ![Pandas](https://img.shields.io/badge/-Pandas-353535?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-353535?style=flat-square&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-353535?style=flat-square)

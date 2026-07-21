@@ -1,12 +1,9 @@
 # Hello! <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
-I'm **[Faezeh](https://github.com/fazialnjd)**, a **Backend Developer** and **Bioinformatics M.Sc. student** passionate about AI, Machine Learning, Deep Learning, and building scalable backend systems.
+I'm **[Faezeh](https://github.com/fazialnjd)**, a Backend Developer and Bioinformatics M.Sc. student passionate about AI, Machine Learning, Deep Learning, and building scalable backend systems.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faezehalinejad/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:f.alinejad1251@gmail.com)
-
-📫 **Email:** `f.alinejad1251@gmail.com`
-
+**Email:** `f.alinejad1251@gmail.com`
+**LinkedIn:** `https://www.linkedin.com/in/faezehalinejad/`
 ---
 
 ## 💻 Tech Stack
@@ -23,18 +20,18 @@ I'm **[Faezeh](https://github.com/fazialnjd)**, a **Backend Developer** and **Bi
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-353535?style=flat-square)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-353535?style=flat-square&logo=kaggle)
 
-### 🧠 NLP, Embeddings & Vector Search
+### NLP, Embeddings & Vector Search
 ![Hugging Face Transformers](https://img.shields.io/badge/-HF_Transformers-353535?style=flat-square)
 ![SentenceTransformers](https://img.shields.io/badge/-SentenceTransformers-353535?style=flat-square)
 ![Tokenization](https://img.shields.io/badge/-Tokenization-353535?style=flat-square)
 ![Embeddings](https://img.shields.io/badge/-Embeddings-353535?style=flat-square)
 ![FAISS](https://img.shields.io/badge/-FAISS-353535?style=flat-square)
 
-### 🔍 Explainable AI
+### Explainable AI
 ![SHAP](https://img.shields.io/badge/-SHAP-353535?style=flat-square)
 ![LIME](https://img.shields.io/badge/-LIME-353535?style=flat-square)
 
-### 🛠️ Backend
+### Backend
 ![Python](https://img.shields.io/badge/-Python-353535?style=flat-square&logo=python)
 ![Django](https://img.shields.io/badge/-Django-353535?style=flat-square&logo=django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-353535?style=flat-square&logo=fastapi)

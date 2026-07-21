@@ -2,8 +2,9 @@
 
 I'm **[Faezeh](https://github.com/fazialnjd)**, a Backend Developer and Bioinformatics M.Sc. student passionate about AI, Machine Learning, Deep Learning, and building scalable backend systems.
 
-**Email:** `f.alinejad1251@gmail.com`
-**LinkedIn:** `https://www.linkedin.com/in/faezehalinejad/`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faezehalinejad/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:f.alinejad1251@gmail.com)
+
 ---
 
 ## 💻 Tech Stack
